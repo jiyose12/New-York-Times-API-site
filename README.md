@@ -7,12 +7,12 @@ Um projeto para a disciplina de Javascript que consiste em criar um site usando 
 
 ```
 # Objetivo
-``
+
 Desde 1851 o jornal americano New York Times vem guardando conteúdos de notícias e informações. Este projeto tem a finalidade de disponibilizar por meio de um site os diversos assuntos usando a NYT API. Assim, de forma rápida e facil, o usuário busca pela paralvra chave e os Artigos são dispostos na tela.
-``
+
 # Inspiração
 
-Inspirado nos grandes jornais...
+Inspirado nos grandes jornais e principalmente no Jornalismo online. Que recorre a técnicas diferentes do jornalismo tradicional impresso.Logo,a  velocidade das informações em tempo real para todos aqueles que gostam de estarem bem informados. Portanto, à internet é o melhor meio para transmissão dessas informações que irão satisfazer,seus bons leitores.
 
 # Protótipos
 
