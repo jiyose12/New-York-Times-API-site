@@ -15,7 +15,6 @@ Inspirado nos grandes jornais e principalmente no Jornalismo online. Que recorre
 O website que não so traz informações revelantes mas também possui o design relembrando os antigos jornais é o do [The Washington Post][TheWashingtonPost]. A Inspiração do design do projeto provém deste site.
 
 # Protótipos
-![print1][foto1]
 
 As notícias recentes serão dispostas como mostrada na figura abaixo.
 
@@ -26,10 +25,6 @@ Haverá um campo de pesquisa no topo da página e ao lado colocaremos um filtro 
 ![print1][foto1]
 
 # Recursos da API  
-Parâmetros de busca da API
-![print2][foto2]
-Exemplo do Resultado
-![print3][foto3]
 
 Existem várias APIs que o New York Times oferece, por exemplo de Artigos, Livros, Comentários, Análises de Filmes etc. Neste projeto usaremos apenas de Artigos.
 
